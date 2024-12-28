@@ -341,7 +341,7 @@ public class Data {
         attendance = attendance * 5;
         if (attendance >= 30) {      // Ensure the total attendance points do not exceed 30
             attendance = 30;
-            System.out.println("Section points: 30 / 30");
+            System.out.println("Section pointllllls: 30 / 30");
         } else {
             System.out.println("Section points: " + attendance + " / 30");
         }
